@@ -2,9 +2,13 @@
     {
         box-sizing: border-box;
     }
-    .column {
+    .column50 {
     float: left;
-    width: 50%;
+    width: 45%;
+    }
+    .column40 {
+    float: left;
+    width: 45%;
     }
     .row:after {
     content: "";
@@ -14,8 +18,8 @@
     html{
     font-family:'Montserrat';
     color:white;
-    width: 80%;
-    margin: 10%;
+    width: 90%;
+    margin: 5%;
     }
     h3 {
     color: white;
