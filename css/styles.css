@@ -1,0 +1,27 @@
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    html{
+    font-family:'Montserrat';
+    color:white
+    }
+    h3 {
+    color: gray;
+    margin-right: 30px;
+    }
+    body{
+    background-color:rgb(20,20,20)
+    }
+    </style>
