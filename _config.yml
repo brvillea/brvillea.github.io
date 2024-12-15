@@ -266,7 +266,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Villegas-Villalpando]
-  first_name: [Brian, B.]
+  first_name: [Brian, B., B]
 
   style: apa
   locale: en
