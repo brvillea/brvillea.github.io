@@ -19,7 +19,7 @@ Hello, World!
 
 ## Education
 **M.Sc. Mathematics** (Expected Mar 2025) <br/>
-University of Bonn <br/>
+University of Bonn<br/>
 *Thesis*: Fredholm Complexes of Hilbert C\*-Modules<br/>
 *Supervisors*: Koen van den Dungen & Matthias Lesch<br/>
 
