@@ -18,13 +18,13 @@ social: false # includes social icons at the bottom of the page
 Hello, World!
 
 ## Education
-**M.Sc. Mathematics** (Expected Mar 2025) </br>
-University of Bonn </br>
-*Thesis*: Fredholm Complexes of Hilbert C\*-Modules </br>
-*Examiners*: Koen van den Dungen & Matthias Lesch 
+**M.Sc. Mathematics** (Expected Mar 2025) <br/>
+University of Bonn <br/>
+*Thesis*: Fredholm Complexes of Hilbert C\*-Modules<br/>
+*Supervisors*: Koen van den Dungen & Matthias Lesch<br/>
 
-**B.Sc. Applied Mathematics** (Aug 2017-Jul 2022) </br>
-Universidad Autónoma de Aguascalientes </br>
-*Thesis*: Generalized Vitali Sets with Respect to Some Arbitrary Deformed Sums </br>
-*Supervisor*: Jorge E. Macías-Díaz
+**B.Sc. Applied Mathematics** (Aug 2017-Jul 2022)<br/>
+Universidad Autónoma de Aguascalientes<br/>
+*Thesis*: Generalized Vitali Sets with Respect to Some Arbitrary Deformed Sums<br/>
+*Supervisor*: Jorge E. Macías-Díaz<br/>
 
