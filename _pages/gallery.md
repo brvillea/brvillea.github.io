@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: John F. Nash, Jr. kept an online album of photos. These can be found today on his web page. They range from a photo of the Bodleian Library to just some random stairs. We can also find a blurry picture of him with his wife or a messy desk. It is interesting to navigate those folders. Another mathematician who liked to take photos was Paul R. Halmos and he published a book called "I Have a photographic memory". From the 6000 or so photographs in his collection, Halmos choose about 600 for this book. Since I like to take photos (not professionally, obviously), here is my attempt to do the same.
+description: John F. Nash, Jr. kept an online album of photos. These can be found today on [his web page](https://web.math.princeton.edu/jfnj/). They range from a photo of the Bodleian Library to just some random stairs. We can also find a blurry picture of him with his wife or a messy desk. It is interesting to navigate those folders. Another mathematician who liked to take photos was Paul R. Halmos and he published a book called "I Have a photographic memory". From the 6000 or so photographs in his collection, Halmos choose about 600 for this book. Since I like to take photos (not professionally, obviously), here is my attempt to do the same.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
