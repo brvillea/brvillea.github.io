@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bonn
-description: with background image
+description: Germany
 img: assets/img/gallery/Bonn.jpg
 importance: 1
 category: Cities
