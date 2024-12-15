@@ -14,17 +14,17 @@ toc:
 >Invest in your shoes and your sheets because if you’re not in one, you’re in the other.
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--my-mathematical-writing">
-  <a href="assets/img/mathematical handwriting_1.png"
+  <a href="https://github.com/brvillea/brvillea.github.io/blob/main/assets/img/mathematical%20handwriting_1.png?raw=true"
     data-pswp-width="1669"
     data-pswp-height="2500"
     target="_blank">
-    <img src="assets/img/mathematical handwriting_1.png" alt="" />
+    <img src="https://github.com/brvillea/brvillea.github.io/blob/main/assets/img/mathematical%20handwriting_1.png?raw=true" alt="" />
   </a>
-  <a href="assets/img/mathematical handwriting_2.png"
-    data-pswp-width="1669"
+  <a href="https://lh4.googleusercontent.com/rhkRQDxV0JPvMU5F-w5nxWN5PlSrZfOm295lnt5HrtWnQ-hy5h5iXBVUMrupQPYQ4WotyNmNh0TZGl9dDbYWokWSrxY26VGzZw6PblcFKk4JQLSZRHi8_ZWfZ5NFf8XiSA=w1280"
+	data-pswp-width="1669"
     data-pswp-height="2500"
     target="_blank">
-    <img src="assets/img/mathematical handwriting_2.png" alt="" />
+    <img src="https://lh4.googleusercontent.com/rhkRQDxV0JPvMU5F-w5nxWN5PlSrZfOm295lnt5HrtWnQ-hy5h5iXBVUMrupQPYQ4WotyNmNh0TZGl9dDbYWokWSrxY26VGzZw6PblcFKk4JQLSZRHi8_ZWfZ5NFf8XiSA=w1280" alt="" />
   </a>
 </div>
 
