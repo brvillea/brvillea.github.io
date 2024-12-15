@@ -25,6 +25,6 @@ University of Bonn<br/>
 
 **B.Sc. Applied Mathematics** (Aug 2017-Jul 2022)<br/>
 Universidad Autónoma de Aguascalientes<br/>
-*Thesis*: Generalized Vitali Sets with Respect to Some Arbitrary Deformed Sums<br/>
+*Thesis*: [Generalized Vitali Sets with Respect to Some Arbitrary Deformed Sums](https://doi.org/10.1016/S0034-4877(22)00082-9)<br/>
 *Supervisor*: Jorge Eduardo Macías Díaz<br/>
 
