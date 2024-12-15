@@ -2,7 +2,7 @@
 layout: page
 title: Bonn
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/gallery/Bonn.jpg
 importance: 1
 category: Cities
 related_publications: true
