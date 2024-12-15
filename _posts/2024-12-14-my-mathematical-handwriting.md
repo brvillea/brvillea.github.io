@@ -4,22 +4,30 @@ title: My mathematical handwriting
 date: 2024-12-14 12:00:00-0400
 description: To enjoy the freedom of the wide variety of typefaces available, mathematicians need to learn how to write these symbols on the chalkboard and paper. - The Old Pappus' Book of Mathematical Calligraphy
 tags: writing
-categories: how did i do it
+categories: how-did-i-do-it
 giscus_comments: false
 related_posts: false
 toc:
   sidebar: left
 ---
 
->Invest in your shoes and your sheets because if you’re not in one, you’re in the other.>
+>Invest in your shoes and your sheets because if you’re not in one, you’re in the other.
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/mathematical handwriting_1.png" title="My mathematical handwriting" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/mathematical handwriting_2.png" title="My mathematical handwriting" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="pswp-gallery pswp-gallery--single-column" id="gallery--my-mathematical-writing">
+  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+    data-pswp-width="1669"
+    data-pswp-height="2500"
+    target="_blank">
+    <img src="assets/img/mathematical handwriting_1.png" alt="" />
+  </a>
+  <!-- cropped thumbnail: -->
+  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
+    data-pswp-width="1669"
+    data-pswp-height="2500"
+    data-cropped="true"
+    target="_blank">
+    <img src="assets/img/mathematical handwriting_2.png" alt="" />
+  </a>
 </div>
 
 ## References
