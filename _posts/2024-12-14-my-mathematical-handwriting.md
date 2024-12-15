@@ -14,17 +14,15 @@ toc:
 >Invest in your shoes and your sheets because if you’re not in one, you’re in the other.
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--my-mathematical-writing">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+  <a href="assets/img/mathematical handwriting_1.png"
     data-pswp-width="1669"
     data-pswp-height="2500"
     target="_blank">
     <img src="assets/img/mathematical handwriting_1.png" alt="" />
   </a>
-  <!-- cropped thumbnail: -->
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
+  <a href="assets/img/mathematical handwriting_2.png"
     data-pswp-width="1669"
     data-pswp-height="2500"
-    data-cropped="true"
     target="_blank">
     <img src="assets/img/mathematical handwriting_2.png" alt="" />
   </a>
