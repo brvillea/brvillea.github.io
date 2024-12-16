@@ -13,19 +13,13 @@ toc:
 
 >Invest in your shoes and your sheets because if you’re not in one, you’re in the other.
 
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--my-mathematical-writing">
-  <a href="https://github.com/brvillea/brvillea.github.io/blob/main/assets/img/mathematical%20handwriting_1.png?raw=true"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="https://github.com/brvillea/brvillea.github.io/blob/main/assets/img/mathematical%20handwriting_1.png?raw=true" alt="" />
-  </a>
-  <a href="https://lh4.googleusercontent.com/rhkRQDxV0JPvMU5F-w5nxWN5PlSrZfOm295lnt5HrtWnQ-hy5h5iXBVUMrupQPYQ4WotyNmNh0TZGl9dDbYWokWSrxY26VGzZw6PblcFKk4JQLSZRHi8_ZWfZ5NFf8XiSA=w1280"
-	data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="https://lh4.googleusercontent.com/rhkRQDxV0JPvMU5F-w5nxWN5PlSrZfOm295lnt5HrtWnQ-hy5h5iXBVUMrupQPYQ4WotyNmNh0TZGl9dDbYWokWSrxY26VGzZw6PblcFKk4JQLSZRHi8_ZWfZ5NFf8XiSA=w1280" alt="" />
-  </a>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="mathematical handwriting_1" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="mathematical handwriting_2" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 
 ## References
