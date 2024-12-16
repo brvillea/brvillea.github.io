@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: Bonn
 description: Germany
 img: assets/img/gallery/cities-Bonn/Bonn-001.jpg
