@@ -16,7 +16,7 @@ John F. Nash, Jr. kept an online album of photos. These can be found today on <a
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+    <h2 class="category" margin-top="1em">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.gallery | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
