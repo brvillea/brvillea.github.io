@@ -11,7 +11,7 @@ toc:
 
 2025
 ---
-**Fredholm complexes of Hilbert C*-modules** (with Koen van den Dungen). [arXiv:2505.07568](arXiv:2505.07568)
+**Fredholm complexes of Hilbert C*-modules** (with Koen van den Dungen). [arXiv:2505.07568](https://doi.org/10.48550/arXiv.2505.07568)
 
 2024
 ----
