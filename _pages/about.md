@@ -18,10 +18,10 @@ social: false # includes social icons at the bottom of the page
 Hello, World!
 
 ## Education
-**M.Sc. Mathematics** (Expected Mar 2025) <br/>
+**M.Sc. Mathematics** (Oct 2022 - Mar 2025) <br/>
 University of Bonn<br/>
-*Thesis*: Fredholm Complexes of Hilbert C\*-Modules<br/>
-*Supervisors*: Koen van den Dungen & Matthias Lesch<br/>
+*Thesis*: [Fredholm Complexes of Hilbert C\*-Modules](https://doi.org/10.48550/arXiv.2505.07568)<br/>
+*Examiners*: Koen van den Dungen & Matthias Lesch<br/>
 
 **B.Sc. Applied Mathematics** (Aug 2017 - Jul 2022)<br/>
 Universidad Autónoma de Aguascalientes<br/>
