@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 permalink: /gallery/
 description: 
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Cities, Universities, Miscellaneous]
 horizontal: false
