@@ -4,8 +4,7 @@ title: Teaching
 permalink: /teaching/
 description: 
 nav: true
-nav_order: 3
-display_categories: [Winter Semester 2025]
+nav_order: 2
 horizontal: false
 ---
 
