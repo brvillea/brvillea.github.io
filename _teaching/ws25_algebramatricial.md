@@ -2,7 +2,6 @@
 layout: page
 title: Álgebra Matricial
 description: 1B° Ing. Biomédica, Ago-Dic 2025
-permalink: teaching/WS2025-algebra-matricial
 ---
 
 # Álgebra matricial
