@@ -2,7 +2,7 @@
 layout: page
 title: Álgebra Matricial
 description: Semestre Agosto-Diciembre 2025
-permalink: /teaching/WS2025_algebra-matricial/
+permalink: /teaching/WS2025_algebra_matricial/
 ---
 
 ##### Información general
