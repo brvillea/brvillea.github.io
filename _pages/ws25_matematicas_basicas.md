@@ -13,8 +13,8 @@ Instructor: Brian Villegas Villalpando\
 Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y el 3)
 
 ##### Ponderación de calificaciones
-- Exámenes 70%
-- Tareas 30%
+- Exámenes: 70%
+- Tareas: 30%
 
 ##### Exámenes
 - Unidad I: 
@@ -23,7 +23,8 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - Unidad V:
 
 ##### Materiales
-- [Notas de clase]()
+- Notas de clase (en preparación)
+- [Lineamientos para entrega de tareas](/assets/pdf/teaching/FS25_matematicas_basicas/Lineamientos para tareas.pdf "Descargar")
 
 ##### Hojas de ejercicios
 - [Hoja 1](/assets/pdf/teaching/FS25_matematicas_basicas/hw1_mb.pdf "Descargar") (para el 25 de Agosto, [Soluciones](/assets/pdf/teaching/FS25_matematicas_basicas/soluciones_hw1_mb.pdf "Descargar"))

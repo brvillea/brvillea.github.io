@@ -23,7 +23,8 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - Unidad IV:
 
 ##### Materiales
-- [Notas de clase]()
+- Notas de clase (en preparación)
+- [Lineamientos para entrega de tareas](/assets/pdf/teaching/FS25_algebra_matricial/Lineamientos para tareas.pdf "Descargar")
 
 ##### Hojas de ejercicios
 - [Hoja 1](/assets/pdf/teaching/FS25_algebra_matricial/hw1_am.pdf "Descargar") (para el 25 de Agosto, [Soluciones](/assets/pdf/teaching/FS25_algebra_matricial/soluciones_hw1_am.pdf "Descargar"))
