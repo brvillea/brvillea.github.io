@@ -6,17 +6,17 @@ permalink: /teaching/WS2025_algebra_matricial/
 ---
 
 ##### Información general
-1B° de Ingeniería Biomédica
-Universidad Autónoma de Aguascalientes
-*Instructor:* Brian Villegas Villalpando
-Correo electrónico: nombre.primerapellido (at) edu.uaa.mx
+Ing. Biomédica 1B°\
+Universidad Autónoma de Aguascalientes\
+**Instructor:** Brian Villegas Villalpando\
+Correo electrónico: brian.vill3gas(at)edu.uaa.mx (Reemplazar el 3 por la letra e)
 
 
 ##### Exámenes
-Unidad I: 
-Unidad II:
-Unidad III:
-Unidad IV:
+- Unidad I: 
+- Unidad II:
+- Unidad III:
+- Unidad IV:
 
 ##### Notas de clase
 Notas de clase
