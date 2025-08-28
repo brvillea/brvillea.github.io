@@ -7,11 +7,14 @@ permalink: /teaching/FS2025_algebra_matricial/
 
 ##### Información general
 Ing. Biomédica 1B°\
-Universidad Autónoma de Aguascalientes\
+Universidad Autónoma de Aguascalientes
 
 Instructor: Brian Villegas Villalpando\
 Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y el 3)
 
+##### Ponderación de calificaciones
+- Exámenes: 70%
+- Tareas: 30%
 
 ##### Exámenes
 - Unidad I: 
