@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: /gallery/
+permalink: 
 description: 
 nav: false
 nav_order: 3
