@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-# Winter semester 2025
+## Fall semester 2025
 
-- Lecture course: Álgebra matricial (Universidad Autónoma de Aguascalientes)
+- Lecture course: [Álgebra matricial](/teaching/WS2025-algebra-matricial) (Universidad Autónoma de Aguascalientes)
 - Lecture course: Matemáticas Básicas (Universidad Autónoma de Aguascalientes)
