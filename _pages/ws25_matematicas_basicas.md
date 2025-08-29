@@ -29,5 +29,6 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 ##### Hojas de ejercicios
 - [Hoja 1](/assets/pdf/teaching/FS25_matematicas_basicas/hw1_mb.pdf "Descargar") (para el 25 de Agosto, [Soluciones](/assets/pdf/teaching/FS25_matematicas_basicas/soluciones_hw1_mb.pdf "Descargar"))
 - [Hoja 2](/assets/pdf/teaching/FS25_matematicas_basicas/hw2_mb.pdf "Descargar") (para el 1 de Septiembre)
-- Hoja 3 (para el 8 de Septiembre)
+- [Hoja 3](/assets/pdf/teaching/FS25_matematicas_basicas/hw3_mb.pdf "Descargar") (para el 8 de Septiembre)
+- Hoja 4 (para el 15 de Septiembre)
 
