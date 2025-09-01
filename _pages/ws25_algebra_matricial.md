@@ -7,11 +7,14 @@ permalink: /teaching/FS2025_algebra_matricial/
 
 ##### Información general
 Ing. Biomédica 1B°\
-Universidad Autónoma de Aguascalientes\
+Universidad Autónoma de Aguascalientes
 
 Instructor: Brian Villegas Villalpando\
 Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y el 3)
 
+##### Ponderación de calificaciones
+- Exámenes: 70%
+- Tareas: 30%
 
 ##### Exámenes
 - Unidad I: 
@@ -20,10 +23,12 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - Unidad IV:
 
 ##### Materiales
-- [Notas de clase]()
+- [Notas de clase](/assets/pdf/teaching/FS25_algebra_matricial/notas_am_2025_08_28.pdf "Descargar") (Actualización: 28-Ago-2025 22:00 hrs)
+- [Lineamientos para entrega de tareas](/assets/pdf/teaching/FS25_algebra_matricial/Lineamientos para tareas.pdf "Descargar")
 
 ##### Hojas de ejercicios
 - [Hoja 1](/assets/pdf/teaching/FS25_algebra_matricial/hw1_am.pdf "Descargar") (para el 25 de Agosto, [Soluciones](/assets/pdf/teaching/FS25_algebra_matricial/soluciones_hw1_am.pdf "Descargar"))
 - [Hoja 2](/assets/pdf/teaching/FS25_algebra_matricial/hw2_am.pdf "Descargar") (para el 1 de Septiembre)
-- Hoja 3 (para el 8 de Septiembre)
+- [Hoja 3](/assets/pdf/teaching/FS25_algebra_matricial/hw3_am.pdf "Descargar") (para el 8 de Septiembre)
+- Hoja 4 (para el 15 de Septiembre)
 
