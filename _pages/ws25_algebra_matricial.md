@@ -32,6 +32,7 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - [Hoja 2](/assets/pdf/teaching/FS25_algebra_matricial/hw2_am.pdf "Descargar") (para el 1 de Septiembre, [Soluciones](/assets/pdf/teaching/FS25_algebra_matricial/soluciones_hw2_am.pdf "Descargar"))
 - [Hoja 3](/assets/pdf/teaching/FS25_algebra_matricial/hw3_am.pdf "Descargar") (para el 8 de Septiembre)
 - [Hoja 4](/assets/pdf/teaching/FS25_algebra_matricial/hw4_am.pdf "Descargar") (para el 17 de Septiembre)
+
 **Unidad II: Cálculo matricial y sistemas de ecuaciones**
 - Hoja 5 (para el 22 de Septiembre)
 
