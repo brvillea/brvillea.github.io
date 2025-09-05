@@ -17,7 +17,7 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - Tareas: 30%
 
 ##### Exámenes
-- Unidad I: 
+- Unidad I: 18 de Septiembre, 8:00 am
 - Unidad II:
 - Unidad III:
 - Unidad IV:
