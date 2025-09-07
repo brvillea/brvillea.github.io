@@ -23,8 +23,9 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - Unidad IV:
 
 ##### Materiales
-- [Notas de clase](/assets/pdf/teaching/FS25_algebra_matricial/notas_am_2025_9_1.pdf "Descargar") (Actualización: 01-Sep-2025 14:00 hr)
+- [Notas de clase](/assets/pdf/teaching/FS25_algebra_matricial/notas_am.pdf "Descargar") (Actualización: 07-Sep-2025 07:00 hr)
 - [Lineamientos para entrega de tareas](/assets/pdf/teaching/FS25_algebra_matricial/Lineamientos para tareas.pdf "Descargar")
+- [Repaso de la Unidad I](/assets/pdf/teaching/FS25_algebra_matricial/repaso_unidad_I.pdf "Descargar") (Clases 19 y 20)
 
 ##### Hojas de ejercicios
 **Unidad I: Funciones y gráficas**
