@@ -31,7 +31,7 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 **Unidad I: Propiedades de los números reales**
 - [Hoja 1](/assets/pdf/teaching/FS25_matematicas_basicas/hw1_mb.pdf "Descargar") (para el 25 de Agosto, [Soluciones](/assets/pdf/teaching/FS25_matematicas_basicas/soluciones_hw1_mb.pdf "Descargar"))
 - [Hoja 2](/assets/pdf/teaching/FS25_matematicas_basicas/hw2_mb.pdf "Descargar") (para el 1 de Septiembre, [Soluciones](/assets/pdf/teaching/FS25_matematicas_basicas/soluciones_hw2_mb.pdf "Descargar"))
-- [Hoja 3](/assets/pdf/teaching/FS25_matematicas_basicas/hw3_mb.pdf "Descargar") (para el 8 de Septiembre)
+- [Hoja 3](/assets/pdf/teaching/FS25_matematicas_basicas/hw3_mb.pdf "Descargar") (para el 8 de Septiembre, [Soluciones](/assets/pdf/teaching/FS25_matematicas_basicas/soluciones_hw3_mb.pdf "Descargar"))
 
 **Unidad II: Ecuaciones y desigualdades en una variable**
 - Hoja 4 (para el 22 de Septiembre)

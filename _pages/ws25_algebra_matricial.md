@@ -31,7 +31,7 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 **Unidad I: Funciones y gráficas**
 - [Hoja 1](/assets/pdf/teaching/FS25_algebra_matricial/hw1_am.pdf "Descargar") (para el 25 de Agosto, [Soluciones](/assets/pdf/teaching/FS25_algebra_matricial/soluciones_hw1_am.pdf "Descargar"))
 - [Hoja 2](/assets/pdf/teaching/FS25_algebra_matricial/hw2_am.pdf "Descargar") (para el 1 de Septiembre, [Soluciones](/assets/pdf/teaching/FS25_algebra_matricial/soluciones_hw2_am.pdf "Descargar"))
-- [Hoja 3](/assets/pdf/teaching/FS25_algebra_matricial/hw3_am.pdf "Descargar") (para el 8 de Septiembre)
+- [Hoja 3](/assets/pdf/teaching/FS25_algebra_matricial/hw3_am.pdf "Descargar") (para el 8 de Septiembre,  [Soluciones](/assets/pdf/teaching/FS25_algebra_matricial/soluciones_hw3_am.pdf "Descargar"))
 - [Hoja 4](/assets/pdf/teaching/FS25_algebra_matricial/hw4_am.pdf "Descargar") (para el 17 de Septiembre)
 
 **Unidad II: Cálculo matricial y sistemas de ecuaciones**
