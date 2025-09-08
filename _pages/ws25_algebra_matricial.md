@@ -6,7 +6,7 @@ permalink: /teaching/FS2025_algebra_matricial/
 ---
 
 ##### Información general
-Ing. Biomédica 1B°\
+Ing. Biomédica 1°B\
 Universidad Autónoma de Aguascalientes
 
 Instructor: Brian Villegas Villalpando\
