@@ -20,10 +20,6 @@ I will be starting a PhD in Mathematics at the [Department of Mathematical Scien
 **Research areas:** Operator algebras
 
 ## Education
-**PhD Mathematics** (Jan 2026  - Jan 2031) <br/>
-Chalmers University of Technology and University of Gothenburg<br/>
-*Supervisor*. [Hannes Thiel](http://hannesthiel.org/)<br/>
- 
 **M.Sc. Mathematics** (Oct 2022 - Mar 2025) <br/>
 University of Bonn<br/>
 *Thesis*. [Fredholm Complexes of Hilbert C\*-Modules](https://doi.org/10.48550/arXiv.2505.07568)<br/>
