@@ -19,7 +19,7 @@ From January 2026, I am a doctoral student in mathematics at the [Department of 
 
 My [research interests](research) include noncommutative geometry, C\*-algebras, and Hilbert C\*-modules.
 
-Prior to attending Chalmers and GU, I completed my master's degree in mathematics at the [University of Bonn](https://www.mathematics.uni-bonn.de/en/welcome) in Germany, and I received my bachelor's degree from the [Autonomous University of Aguascalientes](https://www.uaa.mx/portal/) in Mexico. For details, see my [CV](curriculum).
+I completed my master's degree in mathematics at the [University of Bonn](https://www.mathematics.uni-bonn.de/en/welcome) in Germany, and I received my bachelor's degree from the [Autonomous University of Aguascalientes](https://www.uaa.mx/portal/) in Mexico. For details, see my [CV](curriculum).
 
 ### Contact
 **email:**<br/>
