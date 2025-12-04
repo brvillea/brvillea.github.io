@@ -9,8 +9,14 @@ horizontal: false
 ---
 
 ### Employment
-- 2026-2031 Doctoral student, Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg
-- Fall 2025 Lecturer (associate professor), Department of Mathematics and Physics, Autonomous University of Aguascalientes
+**2026-2031:** Doctoral student
+<br/>Department of Mathematical Sciences
+<br/>Chalmers University of Technology and the University of 
+Gothenburg<br/>
+
+**Fall 2025:** Lecturer (associate professor)<br/>
+Department of Mathematics and Physics<br/>
+Autonomous University of Aguascalientes
 
 ### Education
 **PhD in Mathematics**, Jan 2026 - Jan 2031 (Expected)<br/>
