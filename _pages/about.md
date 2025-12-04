@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 ## About Me
-I will be starting a PhD in Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx), a joint department of Chalmers University of Technology and the University of Gothenburg. 
+I will be starting a PhD in Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and the University of Gothenburg in January 2026. My supervisor is [Hannes Thiel](http://hannesthiel.org/), and my research will focus on operator algebras.
 
-**Research areas:** Operator algebras
+I am interested in noncommutative geometry, C\*-algebras, and Hilbert C\*-modules.
 
 ## Education
 **M.Sc. Mathematics** (Oct 2022 - Mar 2025) <br/>

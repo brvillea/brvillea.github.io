@@ -22,5 +22,5 @@ Correo electrónico: br1an.v1ll3gas(at)edu.uaa.mx (Usar i y e en lugar del 1 y e
 - Unidad III y IV: 24 de Noviembre, 8:30 am
 - Unidad V: 8 de diciembre, 8:00 am
 
-Para más información visita la página del curso en [Aula Virtual](www.aulavirtual.uaa.mx).
+Para más información visita la página del curso en [Aula Virtual](https://aulavirtual.uaa.mx/).
 
