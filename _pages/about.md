@@ -26,6 +26,6 @@ Department of Mathematical Sciences, [Chalmers University of Technology](https:/
 Faculty of Mathematics and Natural Sciences, [University of Bonn](https://www.uni-bonn.de/en/home), Germany<br/>
 *Supervisor:* Koen van den Dungen<br/>
 
-**BSc Applied Mathematics**, Aug 2017 - Jul 2022<br/>
+**BSc in Applied Mathematics**, Aug 2017 - Jul 2022<br/>
 Department of Mathematics and Physics, [Universidad Autónoma de Aguascalientes](https://en.uaa.mx/portal/), Mexico<br/>
-*Supervisor:* J.E. Macías-Díaz<br/>
+*Supervisor:* Jorge E. Macías-Díaz<br/>
