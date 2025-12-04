@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 ### About me
-From January 2026, I am a PhD student in Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and the University of Gothenburg. My supervisor is [Hannes Thiel](http://hannesthiel.org/), and my research focuses on operator algebras.
+From January 2026, I am a doctoral student in mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/en/departments/math/Pages/default.aspx) at Chalmers University of Technology and the University of Gothenburg. My supervisor is [Hannes Thiel](http://hannesthiel.org/), and the research project focuses on the structure theory of operator algebras.
 
-My [research interests](research) inclide noncommutative geometry, C\*-algebras, and Hilbert C\*-modules.
+My [research interests](research) include noncommutative geometry, C\*-algebras, and Hilbert C\*-modules. Recently, I have been interested in locally compact quantum groups and $L_p$-spectral triples.
 
 ### Education
 [Chalmers University of Technology](https://www.chalmers.se/en/) and the [University of Gothenburg](https://www.gu.se/en)<br/>
