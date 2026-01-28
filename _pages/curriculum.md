@@ -31,5 +31,5 @@ Faculty of Mathematics and Natural Sciences, [University of Bonn](https://www.un
 
 **BSc in Applied Mathematics**, Aug 2017 - Jul 2022<br/>
 Department of Mathematics and Physics, [Autonomous University of Aguascalientes](https://en.uaa.mx/portal/), Mexico<br/>
-*Supervisor:* Jorge E. Macías-Díaz<br/>
+*Supervisor:* [Jorge E. Macías-Díaz](https://www.researchgate.net/profile/Jorge-Macias-Diaz-2/3)<br/>
 *Title of thesis:* Generalized Vitali sets
