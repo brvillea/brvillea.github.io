@@ -27,7 +27,7 @@ I completed my master's degree in mathematics at the [University of Bonn](https:
 **Office:** MV:L-3100 in MV-huset (Chalmers Tvärgata 3)<br/>
 
 **Address:**<br/>
-Brian Villegas Villalpando
+Brian Villegas Villalpando<br/>
 Department of Mathematical Sciences<br/>
 Chalmers University of Technology and University of Gothenburg<br/>
 Chalmers Tvärgata 3, SE-412 96 Gothenburg<br/>
