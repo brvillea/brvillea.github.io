@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Gallery
-permalink: https://www.flickr.com/photos/brvillea/
+permalink: https://brvillea.github.io/gallery/
 description: 
 nav: true
 nav_order: 4
-display_categories: [Cities, Universities, Miscellaneous]
-horizontal: false
 ---
 
