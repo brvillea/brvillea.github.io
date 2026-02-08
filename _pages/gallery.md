@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: https://brvillea.github.io/horcrux/
+permalink: https://www.flickr.com/photos/brvillea/albums/
 description: 
 nav: true
 nav_order: 4
