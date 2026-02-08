@@ -22,11 +22,11 @@ My [research interests](research) include operator algebras and functional analy
 I completed my master's degree in mathematics at the [University of Bonn](https://www.mathematics.uni-bonn.de/en/welcome) in Germany, and I received my bachelor's degree from the [Autonomous University of Aguascalientes](https://www.uaa.mx/portal/) in Mexico. For details, see my [CV](curriculum).
 
 ### Contact
-**email:** [firstName]v@chalmers.se<br/>
+**email:** brianv AT chalmers DOT se<br/>
 
 **Office:** MV:L-3100 in MV-huset (Chalmers Tvärgata 3)<br/>
 
-**Address:**<br/>
+**Postal address:**<br/>
 Brian Villegas Villalpando<br/>
 Department of Mathematical Sciences<br/>
 Chalmers University of Technology and University of Gothenburg<br/>
