@@ -1,5 +1,6 @@
 ---
 title: Research
+layout: default
 ---
 See also: [arXiv](https://arxiv.org/a/villegasvillalpando_b_1.html), [Google Scholar](https://scholar.google.com/citations?user=a1HywLAAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-6363-0646)
 
