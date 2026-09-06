@@ -1,3 +1,7 @@
+---
+title: Research
+---
+
 # Research
 
 See also: arXiv, Google Scholar, ORCiD
