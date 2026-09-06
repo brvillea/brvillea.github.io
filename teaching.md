@@ -1,5 +1,6 @@
 ---
 title: Teaching
+layout: default
 ---
 
 ## Chalmers University of Technology
