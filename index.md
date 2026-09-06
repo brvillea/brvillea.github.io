@@ -1,6 +1,6 @@
-
-# Brian Villegas Villalpando
-Doctoral Student at Chalmers University of Technology
+---
+title: Home
+---
 
 ## About me
 I am a first-year doctoral student in mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and the University of Gothenburg. My supervisor is Hannes Thiel, and the research project focuses on the structure theory of operator algebras.
