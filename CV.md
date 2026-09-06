@@ -2,8 +2,6 @@
 title: CV
 ---
 
-### Education
-
 **PhD in Mathematics**, Jan 2026 - Jan 2031 (Expected)  
 *Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg, Sweden*  
 Supervisor: [Hannes Thiel](https://hannesthiel.org/)  
