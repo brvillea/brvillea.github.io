@@ -1,5 +1,6 @@
 ---
 title: CV
+layout: default
 ---
 
 **PhD in Mathematics**, Jan 2026 - Jan 2031 (Expected)  
