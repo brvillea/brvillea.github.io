@@ -5,9 +5,12 @@
 
 @import "minima";
 
+a {color: #116342;}
+
 body {
     font-family: "Open Sans", sans-serif;
     font-weight: 350;
+    font-size: 16px;
 }
 
 .site-title,
@@ -17,4 +20,16 @@ h3 {
     font-weight: 450;
 }
 
-a {color: #116342;}
+
+
+h1 {
+    font-size: 2.2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
