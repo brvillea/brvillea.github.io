@@ -40,10 +40,15 @@ strong,b {font-weight: 450; }
 }
 
 .site-footer {
-  border-top: 1px solid #000; /* Creates the black line */
-  margin-top: 40px;          /* Adds space above the footer */
-  padding: 20px 0;           /* Adds breathing room */
-  text-align: center;        /* Centers the date; change to 'left' if preferred */
-  font-size: 0.9rem;
-  color: #333;
+  border-top: 2px solid #000 !important;
+  margin-top: 40px;
+  padding: 20px 0;
+  background-color: transparent;
+}
+
+.site-footer .wrapper,
+.footer-content {
+  text-align: center !important;
+  display: block;
+  width: 100%;
 }
