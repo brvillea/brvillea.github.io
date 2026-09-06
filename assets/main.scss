@@ -24,3 +24,18 @@ h2 {
 h3 {
     font-size: 12px;
 }
+
+.home-layout {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+}
+
+.home-text {
+    flex: 1;
+}
+
+.home-photo img {
+    width: 300px;
+    border-radius: 8px;
+}
