@@ -1,3 +1,9 @@
 title: Brian Villegas Villalpando
 description: PhD Student in Mathematics
 theme: minima
+
+header_pages:
+- index.md
+- CV.md
+- research.md
+- teaching.md
