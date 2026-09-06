@@ -38,3 +38,12 @@ strong,b {font-weight: 450; }
     width: 300px;
     border-radius: 8px;
 }
+
+.site-footer {
+  border-top: 1px solid #000; /* Creates the black line */
+  margin-top: 40px;          /* Adds space above the footer */
+  padding: 20px 0;           /* Adds breathing room */
+  text-align: center;        /* Centers the date; change to 'left' if preferred */
+  font-size: 0.9rem;
+  color: #333;
+}
