@@ -14,29 +14,12 @@ a:active {
 body {
     font-family: "Open Sans", sans-serif;
     font-weight: 350;
-    font-size: 14px;
-}
-
-h1,
-.page-heading,
-.post-title,
-.page-title {
-    font-size: 18px;
-}
-
-h2,
-.page-heading,
-.post-title,
-.page-title {
     font-size: 16px;
 }
 
-h3,
-.page-heading,
-.post-title,
-.page-title {
-    font-size: 14px;
-}
+.post-content h1 { font-size: 25px; }
+.post-content h2 { font-size: 20px; }
+.post-content h3 { font-size: 18px; }
 
 .home-layout {
     display: flex;
