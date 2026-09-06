@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 
-# Teaching
+## Teaching
 
 ### Chalmers University of Technology
 **Autumn term 2026, LP1 (August-November 2026)**  
