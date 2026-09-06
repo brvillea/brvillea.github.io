@@ -8,6 +8,6 @@ Teaching assistant: Mathematical analysis in several variables (LMA017)
 Teaching assistant: Multivariate Analysis and Partial Differential Equations (MVE255)
 
 ## Universidad Autónoma de Aguascalientes
-**August-December 2025**  
-Lecture course: Álgebra matricial  
-Lecture course: Matemáticas Básicas
+**Fall semester (August-December 2025)**  
+Lecturer: Álgebra matricial  
+Lecturer: Matemáticas Básicas
