@@ -2,6 +2,7 @@
 title: CV
 layout: default
 ---
+## Short CV
 
 **PhD in Mathematics**, Jan 2026 - Jan 2031 (Expected)  
 *Chalmers University of Technology and the University of Gothenburg, Sweden*  
