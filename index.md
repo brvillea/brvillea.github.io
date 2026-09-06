@@ -13,8 +13,8 @@ I completed my master’s degree in mathematics at the University of Bonn in Ger
 **email:** brianv AT chalmers DOT se  
 **Office:** MV:L-3098 in MV-huset (Chalmers Tvärgata 3)  
 **Postal address:**
-Brian Villegas Villalpando
-Department of Mathematical Sciences
-Chalmers University of Technology and University of Gothenburg
-Chalmers Tvärgata 3, SE-412 96 Gothenburg
+Brian Villegas Villalpando  
+Department of Mathematical Sciences  
+Chalmers University of Technology and University of Gothenburg  
+Chalmers Tvärgata 3, SE-412 96 Gothenburg  
 Sweden
