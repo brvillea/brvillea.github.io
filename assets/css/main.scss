@@ -22,15 +22,17 @@ body {
 .post-content h2 { font-size: 18px; }
 .post-content h3 { font-size: 16px; }
 
-strong,b {font-weight: 450; }
+strong, b {
+    font-weight: 450;
+}
+
+
+/* Homepage */
 
 .home-layout {
     display: flex;
     gap: 50px;
     align-items: flex-start;
-    max-width: 1000px;
-    margin: 60px auto;
-    padding: 0 20px;
 }
 
 .home-text {
@@ -50,17 +52,13 @@ strong,b {font-weight: 450; }
 }
 
 
-/* -------------------------
-   Mobile
-   ------------------------- */
+/* Mobile */
 
 @media screen and (max-width: 700px) {
 
     .home-layout {
         flex-direction: column;
         gap: 30px;
-        margin: 40px auto;
-        padding: 0 25px;
     }
 
     .home-text {
@@ -69,18 +67,30 @@ strong,b {font-weight: 450; }
 
     .home-photo {
         width: 100%;
+        flex: none;
         text-align: center;
     }
 
     .home-photo img {
-        width: min(100%, 300px);
+        width: 300px;
+        max-width: 100%;
+        height: auto;
         margin: 0 auto;
     }
 }
 
+
+.site-footer {
+    margin-top: 30px;
+    padding: 10px 0;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 0.8rem;
+}
+
 .site-footer .wrapper,
 .footer-content {
-  text-align: center !important;
-  display: block;
-  width: 100%;
+    text-align: center !important;
+    display: block;
+    width: 100%;
 }
