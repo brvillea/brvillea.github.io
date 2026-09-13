@@ -1,15 +1,13 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 @import "minima";
 
-a,
-a:visited,
-a:hover,
-a:active {
-    color: #116342;
-}
+/* =========================
+   General site styling
+   ========================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 
 body {
     font-family: "Open Sans", sans-serif;
@@ -18,21 +16,42 @@ body {
     background-color: #ffffff;
 }
 
-.post-content h1 { font-size: 20px; }
-.post-content h2 { font-size: 18px; }
-.post-content h3 { font-size: 16px; }
+a,
+a:visited {
+    color: #116342;
+}
 
-strong, b {
+a:hover,
+a:active {
+    color: #116342;
+}
+
+strong,
+b {
     font-weight: 450;
 }
 
+.post-content h1 {
+    font-size: 20px;
+}
 
-/* Homepage */
+.post-content h2 {
+    font-size: 18px;
+}
+
+.post-content h3 {
+    font-size: 16px;
+}
+
+
+/* =========================
+   Homepage
+   ========================= */
 
 .home-layout {
     display: flex;
-    gap: 50px;
     align-items: flex-start;
+    gap: 50px;
 }
 
 .home-text {
@@ -45,18 +64,22 @@ strong, b {
 }
 
 .home-photo img {
-    width: 300px;
+    display: block;
+    width: 300px !important;
+    max-width: 300px !important;
     height: auto;
     border-radius: 8px;
-    display: block;
 }
 
 
-/* Mobile */
+/* =========================
+   Mobile
+   ========================= */
 
 @media screen and (max-width: 700px) {
 
     .home-layout {
+        display: flex;
         flex-direction: column;
         gap: 30px;
     }
@@ -72,13 +95,17 @@ strong, b {
     }
 
     .home-photo img {
-        width: 300px;
-        max-width: 100%;
+        width: 300px !important;
+        max-width: 100% !important;
         height: auto;
         margin: 0 auto;
     }
 }
 
+
+/* =========================
+   Footer
+   ========================= */
 
 .site-footer {
     margin-top: 30px;
