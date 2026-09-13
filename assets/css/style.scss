@@ -1,10 +1,13 @@
 ---
 ---
 
+@import "minima";
+
+/* Your homepage */
+
 .home-layout {
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 60px;
 
     max-width: 1000px;
@@ -17,13 +20,14 @@
 }
 
 .home-photo {
-    flex: 0 0 300px;
+    width: 300px;
+    flex-shrink: 0;
 }
 
 .home-photo img {
     width: 100%;
     height: auto;
-    border-radius: 12px;
+    border-radius: 50%;
     display: block;
 }
 
@@ -37,15 +41,14 @@
 
         margin: 40px auto;
         padding: 0 20px;
-        text-align: center;
-    }
-
-    .home-photo {
-        flex: none;
-        width: min(70vw, 280px);
     }
 
     .home-text {
         width: 100%;
+        text-align: center;
+    }
+
+    .home-photo {
+        width: 220px;
     }
 }
